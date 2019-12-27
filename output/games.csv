@@ -1,0 +1,1313 @@
+game_id,away_team_id,home_team_id,away_team_rest,home_team_rest
+21800001,Philadelphia,Boston,3+,3+
+21800002,Oklahoma City,Golden State,3+,3+
+21800003,Milwaukee,Charlotte,3+,3+
+21800004,Brooklyn,Detroit,3+,3+
+21800005,Memphis,Indiana,3+,3+
+21800006,Miami,Orlando,3+,3+
+21800007,Atlanta,New York,3+,3+
+21800008,Cleveland,Toronto,3+,3+
+21800009,New Orleans,Houston,3+,3+
+21800010,Minnesota,San Antonio,3+,3+
+21800011,Utah,Sacramento,3+,3+
+21800012,Denver,LA Clippers,3+,3+
+21800013,Dallas,Phoenix,3+,3+
+21800014,Chicago,Philadelphia,3+,1
+21800015,Miami,Washington,B2B,3+
+21800016,LA Lakers,Portland,3+,3+
+21800017,Charlotte,Orlando,1,1
+21800018,New York,Brooklyn,1,1
+21800019,Boston,Toronto,2,1
+21800020,Atlanta,Memphis,1,1
+21800021,Cleveland,Minnesota,1,1
+21800022,Sacramento,New Orleans,1,1
+21800023,Indiana,Milwaukee,1,1
+21800024,Golden State,Utah,2,1
+21800025,Oklahoma City,LA Clippers,2,1
+21800026,Brooklyn,Indiana,3IN4-B2B,3IN4-B2B
+21800027,Toronto,Washington,3IN4-B2B,1
+21800028,Boston,New York,B2B,3IN4-B2B
+21800029,Orlando,Philadelphia,3IN4-B2B,1
+21800030,Charlotte,Miami,3IN4-B2B,3IN4
+21800031,Detroit,Chicago,2,1
+21800032,Minnesota,Dallas,3IN4-B2B,2
+21800033,Phoenix,Denver,2,2
+21800034,San Antonio,Portland,2,1
+21800035,Houston,LA Lakers,2,1
+21800036,Atlanta,Cleveland,1,1
+21800037,Sacramento,Oklahoma City,1,1
+21800038,Golden State,Denver,1,B2B
+21800039,Houston,LA Clippers,B2B,1
+21800040,Orlando,Boston,3IN4,3IN4
+21800041,Charlotte,Toronto,3IN4,3IN4
+21800042,New York,Milwaukee,3IN4,2
+21800043,Indiana,Minnesota,3IN4,3IN4
+21800044,Chicago,Dallas,1,1
+21800045,Memphis,Utah,2,2
+21800046,Washington,Portland,1,1
+21800047,Phoenix,Golden State,1,3IN4-B2B
+21800048,San Antonio,LA Lakers,1,1
+21800049,Philadelphia,Detroit,2,2
+21800050,LA Clippers,New Orleans,1,3+
+21800051,Sacramento,Denver,1,3IN4
+21800052,Dallas,Atlanta,1,2
+21800053,Brooklyn,Cleveland,3+,2
+21800054,New York,Miami,1,3+
+21800055,Minnesota,Toronto,1,1
+21800056,Charlotte,Chicago,1,1
+21800057,Utah,Houston,1,2
+21800058,Indiana,San Antonio,1,1
+21800059,Philadelphia,Milwaukee,B2B,1
+21800060,LA Lakers,Phoenix,1,1
+21800061,Memphis,Sacramento,1,3IN4-B2B
+21800062,Washington,Golden State,1,3IN4
+21800063,Cleveland,Detroit,B2B,1
+21800064,Portland,Orlando,2,2
+21800065,Boston,Oklahoma City,2,3+
+21800066,Denver,LA Lakers,1,3IN4-B2B
+21800067,Chicago,Charlotte,1,1
+21800068,Golden State,New York,1,1
+21800069,Dallas,Toronto,1,1
+21800070,LA Clippers,Houston,2,1
+21800071,Milwaukee,Minnesota,1,1
+21800072,Brooklyn,New Orleans,1,2
+21800073,Washington,Sacramento,1,3IN4
+21800074,Boston,Detroit,1,1
+21800075,Utah,New Orleans,2,B2B
+21800076,Chicago,Atlanta,3IN4-B2B,2
+21800077,Indiana,Cleveland,2,3IN4
+21800078,Charlotte,Philadelphia,3IN4-B2B,2
+21800079,Portland,Miami,1,2
+21800080,Phoenix,Memphis,2,2
+21800081,Orlando,Milwaukee,1,3IN4-B2B
+21800082,LA Lakers,San Antonio,3IN4,2
+21800083,Golden State,Brooklyn,1,1
+21800084,Utah,Dallas,B2B,1
+21800085,Phoenix,Oklahoma City,B2B,2
+21800086,Washington,LA Clippers,1,1
+21800087,Portland,Indiana,1,1
+21800088,Atlanta,Philadelphia,1,1
+21800089,Sacramento,Miami,2,1
+21800090,Brooklyn,New York,3IN4-B2B,2
+21800091,Golden State,Chicago,3IN4-B2B,3IN4
+21800092,Toronto,Milwaukee,2,3IN4
+21800093,LA Lakers,Minnesota,1,2
+21800094,Dallas,San Antonio,3IN4-B2B,1
+21800095,New Orleans,Denver,3IN4,3+
+21800096,Miami,Charlotte,3IN4-B2B,2
+21800097,Atlanta,Cleveland,3IN4-B2B,2
+21800098,Sacramento,Orlando,B2B,2
+21800099,Detroit,Boston,2,2
+21800100,Philadelphia,Toronto,3IN4-B2B,B2B
+21800101,Portland,Houston,3IN4-B2B,3+
+21800102,Washington,Memphis,1,2
+21800103,LA Clippers,Oklahoma City,1,1
+21800104,Detroit,Brooklyn,B2B,3IN4
+21800105,Indiana,New York,1,1
+21800106,Denver,Chicago,1,1
+21800107,Utah,Minnesota,2,1
+21800108,New Orleans,Golden State,1,3IN4
+21800109,Dallas,LA Lakers,3IN4,1
+21800110,San Antonio,Phoenix,1,2
+21800111,Oklahoma City,Charlotte,1,1
+21800112,Denver,Cleveland,3IN4-B2B,1
+21800113,LA Clippers,Philadelphia,1,3IN4
+21800114,Sacramento,Atlanta,3IN4,3IN4
+21800115,Milwaukee,Boston,2,1
+21800116,New Orleans,Portland,3IN4-B2B,3IN4
+21800117,LA Clippers,Orlando,3IN4-B2B,2
+21800118,Houston,Brooklyn,2,1
+21800119,Oklahoma City,Washington,3IN4-B2B,2
+21800120,Indiana,Chicago,1,1
+21800121,New York,Dallas,1,1
+21800122,Memphis,Utah,2,1
+21800123,Toronto,Phoenix,2,1
+21800124,Minnesota,Golden State,1,1
+21800125,Detroit,Philadelphia,2,1
+21800126,Cleveland,Charlotte,1,1
+21800127,Boston,Indiana,1,3IN4-B2B
+21800128,Miami,Atlanta,3+,1
+21800129,Houston,Chicago,B2B,3IN4-B2B
+21800130,New Orleans,San Antonio,3IN4,2
+21800131,Utah,Denver,3IN4-B2B,3IN4
+21800132,LA Lakers,Portland,2,1
+21800133,Sacramento,Milwaukee,2,2
+21800134,Philadelphia,Brooklyn,3IN4-B2B,1
+21800135,New York,Washington,1,1
+21800136,Memphis,Phoenix,1,1
+21800137,Orlando,San Antonio,1,B2B
+21800138,Minnesota,Portland,1,3IN4-B2B
+21800139,Toronto,LA Lakers,1,B2B
+21800140,Miami,Detroit,1,1
+21800141,Houston,Indiana,3IN4,3IN4
+21800142,Cleveland,Orlando,1,3IN4-B2B
+21800143,Chicago,New York,3IN4,3IN4-B2B
+21800144,New Orleans,Oklahoma City,1,2
+21800145,Boston,Denver,1,1
+21800146,Toronto,Utah,3IN4-B2B,3IN4
+21800147,Memphis,Golden State,3IN4-B2B,2
+21800148,Minnesota,LA Clippers,3IN4-B2B,2
+21800149,Atlanta,Charlotte,2,2
+21800150,Washington,Dallas,1,3+
+21800151,Brooklyn,Phoenix,1,1
+21800152,Milwaukee,Portland,1,3IN4
+21800153,Oklahoma City,Cleveland,1,1
+21800154,Detroit,Orlando,1,3IN4
+21800155,New York,Atlanta,3IN4,B2B
+21800156,San Antonio,Miami,2,1
+21800157,Philadelphia,Indiana,2,1
+21800158,Denver,Memphis,1,3IN4
+21800159,Chicago,New Orleans,1,1
+21800160,Dallas,Utah,B2B,1
+21800161,Toronto,Sacramento,3IN4,2
+21800162,Minnesota,LA Lakers,3IN4,2
+21800163,Houston,Oklahoma City,2,3IN4-B2B
+21800164,Boston,Phoenix,2,1
+21800165,LA Clippers,Portland,2,1
+21800166,Milwaukee,Golden State,1,2
+21800167,Washington,Orlando,2,1
+21800168,Charlotte,Philadelphia,2,1
+21800169,Detroit,Atlanta,1,3IN4
+21800170,Indiana,Miami,1,1
+21800171,Brooklyn,Denver,2,1
+21800172,Boston,Utah,B2B,1
+21800173,Minnesota,Sacramento,1,1
+21800174,New York,Toronto,2,2
+21800175,Milwaukee,LA Clippers,1,1
+21800176,Phoenix,New Orleans,1,2
+21800177,Washington,Miami,B2B,3IN4-B2B
+21800178,Cleveland,Chicago,2,2
+21800179,Philadelphia,Memphis,3IN4-B2B,2
+21800180,Houston,San Antonio,1,2
+21800181,Oklahoma City,Dallas,3IN4,2
+21800182,Brooklyn,Golden State,B2B,1
+21800183,LA Lakers,Sacramento,2,3IN4-B2B
+21800184,Charlotte,Detroit,1,1
+21800185,Indiana,Houston,1,3IN4-B2B
+21800186,Orlando,New York,1,B2B
+21800187,Milwaukee,Denver,3IN4-B2B,1
+21800188,Boston,Portland,3IN4,2
+21800189,Atlanta,LA Lakers,1,B2B
+21800190,Orlando,Washington,3IN4-B2B,3IN4
+21800191,Philadelphia,Miami,3IN4,3IN4
+21800192,New Orleans,Toronto,1,1
+21800193,Dallas,Chicago,1,1
+21800194,Utah,Memphis,2,1
+21800195,Brooklyn,Minnesota,3IN4,2
+21800196,Phoenix,Oklahoma City,1,1
+21800197,San Antonio,Sacramento,1,3IN4
+21800198,Golden State,LA Clippers,1,1
+21800199,Charlotte,Cleveland,1,2
+21800200,Houston,Denver,3IN4,1
+21800201,Atlanta,Golden State,1,3IN4-B2B
+21800202,Philadelphia,Orlando,1,3IN4
+21800203,Cleveland,Washington,B2B,1
+21800204,Chicago,Boston,1,2
+21800205,Miami,Brooklyn,1,1
+21800206,Detroit,Toronto,2,1
+21800207,Memphis,Milwaukee,1,2
+21800208,New Orleans,Minnesota,1,1
+21800209,New York,Oklahoma City,2,1
+21800210,Utah,Dallas,1,1
+21800211,San Antonio,Phoenix,1,1
+21800212,Portland,LA Lakers,2,2
+21800213,Golden State,Houston,3IN4,1
+21800214,Atlanta,Denver,1,1
+21800215,San Antonio,LA Clippers,3IN4-B2B,2
+21800216,Toronto,Boston,1,1
+21800217,Miami,Indiana,1,3+
+21800218,Utah,Philadelphia,1,1
+21800219,Brooklyn,Washington,1,1
+21800220,Sacramento,Memphis,3+,1
+21800221,Portland,Minnesota,1,1
+21800222,New York,New Orleans,1,1
+21800223,Chicago,Milwaukee,1,1
+21800224,LA Clippers,Brooklyn,1,3IN4-B2B
+21800225,Philadelphia,Charlotte,3IN4-B2B,3+
+21800226,Atlanta,Indiana,1,B2B
+21800227,LA Lakers,Orlando,2,2
+21800228,Denver,New Orleans,1,3IN4-B2B
+21800229,Utah,Boston,3IN4-B2B,3IN4-B2B
+21800230,Toronto,Chicago,3IN4-B2B,3IN4-B2B
+21800231,Sacramento,Houston,B2B,1
+21800232,Golden State,Dallas,1,2
+21800233,Oklahoma City,Phoenix,2,2
+21800234,Memphis,Minnesota,1,1
+21800235,LA Lakers,Miami,B2B,1
+21800236,New York,Orlando,1,B2B
+21800237,Portland,Washington,1,1
+21800238,Golden State,San Antonio,3IN4-B2B,2
+21800239,Boston,Charlotte,3IN4,1
+21800240,Cleveland,Detroit,3+,3+
+21800241,Utah,Indiana,3IN4,3IN4
+21800242,Phoenix,Philadelphia,1,3IN4
+21800243,LA Clippers,Atlanta,1,1
+21800244,Dallas,Memphis,1,3IN4-B2B
+21800245,Denver,Milwaukee,1,2
+21800246,San Antonio,New Orleans,B2B,3IN4
+21800247,Oklahoma City,Sacramento,1,3IN4
+21800248,Toronto,Orlando,2,3IN4
+21800249,LA Clippers,Washington,3IN4-B2B,1
+21800250,Brooklyn,Miami,2,1
+21800251,Portland,New York,1,1
+21800252,Indiana,Charlotte,1,1
+21800253,New Orleans,Philadelphia,1,1
+21800254,Toronto,Atlanta,B2B,1
+21800255,New York,Boston,3IN4-B2B,1
+21800256,LA Lakers,Cleveland,2,1
+21800257,Phoenix,Chicago,1,3+
+21800258,Detroit,Houston,1,3+
+21800259,Portland,Milwaukee,3IN4-B2B,1
+21800260,Denver,Minnesota,1,2
+21800261,Brooklyn,Dallas,B2B,1
+21800262,Memphis,San Antonio,3IN4,3IN4
+21800263,Sacramento,Utah,1,1
+21800264,Oklahoma City,Golden State,1,2
+21800265,Minnesota,Brooklyn,1,3IN4
+21800266,Memphis,LA Clippers,1,2
+21800267,Houston,Detroit,1,1
+21800268,Boston,Atlanta,1,1
+21800269,New Orleans,New York,1,3IN4
+21800270,Cleveland,Philadelphia,1,1
+21800271,Washington,Toronto,2,3IN4
+21800272,San Antonio,Indiana,1,1
+21800273,Miami,Chicago,2,1
+21800274,Charlotte,Oklahoma City,1,1
+21800275,Phoenix,Milwaukee,1,1
+21800276,Orlando,Denver,2,1
+21800277,Portland,Golden State,3IN4,1
+21800278,Utah,LA Lakers,1,1
+21800279,Houston,Cleveland,3IN4-B2B,3IN4-B2B
+21800280,New Orleans,Washington,3IN4-B2B,B2B
+21800281,Chicago,Minnesota,3IN4-B2B,3IN4-B2B
+21800282,Denver,Oklahoma City,3IN4-B2B,3IN4-B2B
+21800283,Boston,Dallas,3IN4-B2B,2
+21800284,San Antonio,Milwaukee,3IN4-B2B,3IN4-B2B
+21800285,Sacramento,Golden State,2,3IN4-B2B
+21800286,Orlando,LA Lakers,1,1
+21800287,Phoenix,Detroit,1,1
+21800288,Charlotte,Atlanta,1,1
+21800289,Philadelphia,Brooklyn,1,1
+21800290,Miami,Toronto,1,1
+21800291,New York,Memphis,1,1
+21800292,Utah,Sacramento,1,B2B
+21800293,LA Clippers,Portland,1,1
+21800294,Milwaukee,Charlotte,3IN4,3IN4-B2B
+21800295,Minnesota,Cleveland,3IN4,3IN4
+21800296,Houston,Washington,3IN4,3IN4
+21800297,San Antonio,Chicago,3IN4,3IN4
+21800298,Boston,New Orleans,3IN4,3IN4
+21800299,Indiana,Utah,2,3IN4-B2B
+21800300,Orlando,Golden State,3IN4-B2B,3IN4
+21800301,New York,Detroit,1,1
+21800302,Atlanta,Miami,1,1
+21800303,Toronto,Memphis,1,1
+21800304,LA Lakers,Denver,1,2
+21800305,Indiana,Phoenix,B2B,1
+21800306,Atlanta,Charlotte,3IN4-B2B,3IN4
+21800307,New York,Philadelphia,3IN4-B2B,2
+21800308,Utah,Brooklyn,3IN4,2
+21800309,Dallas,Houston,3+,1
+21800310,Chicago,Milwaukee,1,1
+21800311,San Antonio,Minnesota,1,1
+21800312,Washington,New Orleans,1,1
+21800313,Cleveland,Oklahoma City,1,3+
+21800314,Orlando,Portland,3IN4,2
+21800315,Phoenix,LA Clippers,3IN4-B2B,2
+21800316,Golden State,Toronto,2,1
+21800317,Indiana,LA Lakers,3IN4,1
+21800318,LA Clippers,Sacramento,B2B,3+
+21800319,Cleveland,Boston,1,3+
+21800320,Utah,Charlotte,1,1
+21800321,Chicago,Detroit,1,2
+21800322,Washington,Philadelphia,1,1
+21800323,Memphis,Brooklyn,2,1
+21800324,New Orleans,Miami,1,2
+21800325,Atlanta,Oklahoma City,3IN4,1
+21800326,Houston,San Antonio,1,1
+21800327,Orlando,Phoenix,1,3IN4
+21800328,Dallas,LA Lakers,1,3IN4-B2B
+21800329,Denver,Portland,2,1
+21800330,Milwaukee,New York,2,2
+21800331,Golden State,Detroit,1,B2B
+21800332,Toronto,Cleveland,1,3IN4-B2B
+21800333,Brooklyn,Washington,3IN4-B2B,3IN4-B2B
+21800334,Chicago,Houston,3IN4-B2B,3IN4-B2B
+21800335,Boston,Minnesota,B2B,2
+21800336,Indiana,Sacramento,1,1
+21800337,Phoenix,LA Lakers,1,3IN4
+21800338,New Orleans,Charlotte,1,1
+21800339,Utah,Miami,1,1
+21800340,Memphis,Philadelphia,1,1
+21800341,LA Clippers,Dallas,2,1
+21800342,Portland,San Antonio,1,1
+21800343,Oklahoma City,Detroit,2,3IN4
+21800344,Golden State,Atlanta,1,2
+21800345,Cleveland,Brooklyn,3IN4,3IN4
+21800346,Washington,New York,3IN4,1
+21800347,Denver,Toronto,2,1
+21800348,Houston,Minnesota,3IN4,1
+21800349,LA Clippers,New Orleans,B2B,3IN4-B2B
+21800350,Chicago,Indiana,2,2
+21800351,Orlando,Miami,3+,1
+21800352,Portland,Dallas,1,1
+21800353,Sacramento,Phoenix,2,1
+21800354,San Antonio,Utah,1,1
+21800355,Golden State,Cleveland,1,1
+21800356,Denver,Orlando,1,B2B
+21800357,Washington,Atlanta,1,1
+21800358,Oklahoma City,Brooklyn,1,1
+21800359,Philadelphia,Toronto,2,1
+21800360,LA Clippers,Memphis,3IN4,2
+21800361,Detroit,Milwaukee,1,3+
+21800362,Charlotte,Minnesota,2,1
+21800363,Dallas,New Orleans,3IN4-B2B,3IN4
+21800364,San Antonio,LA Lakers,3IN4-B2B,2
+21800365,New York,Boston,2,3+
+21800366,Phoenix,Portland,1,1
+21800367,Houston,Utah,2,1
+21800368,Denver,Charlotte,1,1
+21800369,Philadelphia,Detroit,1,1
+21800370,Indiana,Orlando,2,3IN4
+21800371,Toronto,Brooklyn,1,1
+21800372,Sacramento,Cleveland,2,1
+21800373,Oklahoma City,Chicago,1,2
+21800374,Memphis,New Orleans,1,1
+21800375,LA Lakers,San Antonio,1,3IN4
+21800376,Miami,Phoenix,2,3IN4-B2B
+21800377,Golden State,Milwaukee,1,1
+21800378,Houston,Dallas,1,2
+21800379,Sacramento,Indiana,B2B,B2B
+21800380,Denver,Atlanta,3IN4-B2B,2
+21800381,Washington,Cleveland,2,3IN4-B2B
+21800382,Brooklyn,New York,3IN4-B2B,1
+21800383,Boston,Chicago,1,B2B
+21800384,LA Lakers,Memphis,3IN4-B2B,3IN4-B2B
+21800385,Minnesota,Portland,2,1
+21800386,Miami,LA Clippers,B2B,2
+21800387,New Orleans,Detroit,1,1
+21800388,Milwaukee,Toronto,1,1
+21800389,Charlotte,New York,1,3IN4-B2B
+21800390,Utah,San Antonio,2,1
+21800391,Washington,Indiana,1,3IN4
+21800392,Detroit,Philadelphia,3IN4-B2B,2
+21800393,New Orleans,Boston,3IN4-B2B,1
+21800394,Sacramento,Chicago,3IN4,3IN4
+21800395,Cleveland,Milwaukee,3IN4,3IN4-B2B
+21800396,Utah,Oklahoma City,B2B,2
+21800397,Orlando,Dallas,2,1
+21800398,Memphis,Denver,3IN4,3IN4
+21800399,LA Clippers,Phoenix,1,2
+21800400,Minnesota,Golden State,1,2
+21800401,Miami,LA Lakers,3IN4,3IN4
+21800402,Portland,Houston,2,2
+21800403,Phoenix,San Antonio,B2B,1
+21800404,Toronto,LA Clippers,1,3IN4-B2B
+21800405,Detroit,Charlotte,3IN4,2
+21800406,New York,Cleveland,2,1
+21800407,Milwaukee,Indiana,3IN4,1
+21800408,Brooklyn,Philadelphia,3+,1
+21800409,Boston,Washington,1,1
+21800410,Portland,Memphis,B2B,1
+21800411,Oklahoma City,New Orleans,1,3IN4
+21800412,Atlanta,Dallas,3+,1
+21800413,Miami,Utah,1,3IN4
+21800414,Minnesota,Sacramento,1,1
+21800415,Toronto,Golden State,3IN4-B2B,1
+21800416,LA Lakers,Houston,2,1
+21800417,LA Clippers,San Antonio,3IN4,1
+21800418,Chicago,Orlando,2,2
+21800419,Dallas,Phoenix,3IN4-B2B,3IN4
+21800420,Atlanta,Boston,1,1
+21800421,New York,Charlotte,1,1
+21800422,Washington,Brooklyn,1,1
+21800423,Milwaukee,Cleveland,1,1
+21800424,Indiana,Philadelphia,1,1
+21800425,Miami,Memphis,1,1
+21800426,Oklahoma City,Denver,1,3+
+21800427,Toronto,Portland,3IN4,3IN4
+21800428,Golden State,Sacramento,1,1
+21800429,Utah,Orlando,2,1
+21800430,LA Lakers,Charlotte,1,3IN4-B2B
+21800431,Boston,Detroit,3IN4-B2B,2
+21800432,Houston,Memphis,1,3IN4-B2B
+21800433,Chicago,San Antonio,1,1
+21800434,LA Clippers,Oklahoma City,1,3IN4-B2B
+21800435,Minnesota,Phoenix,2,1
+21800436,Atlanta,Brooklyn,1,1
+21800437,Philadelphia,Cleveland,1,1
+21800438,New York,Indiana,1,1
+21800439,LA Lakers,Washington,3IN4-B2B,1
+21800440,Sacramento,Dallas,1,2
+21800441,Miami,New Orleans,1,3+
+21800442,Toronto,Denver,1,1
+21800443,Milwaukee,Detroit,2,1
+21800444,Phoenix,New York,1,3IN4-B2B
+21800445,Utah,Houston,1,1
+21800446,Sacramento,Minnesota,3IN4-B2B,1
+21800447,Chicago,Oklahoma City,1,3IN4
+21800448,Philadelphia,San Antonio,3IN4-B2B,1
+21800449,Memphis,Golden State,3IN4,2
+21800450,Portland,LA Clippers,2,1
+21800451,Cleveland,Indiana,1,1
+21800452,Washington,Atlanta,1,1
+21800453,LA Lakers,Brooklyn,3IN4,1
+21800454,Dallas,Denver,1,1
+21800455,Cleveland,Charlotte,3IN4-B2B,3+
+21800456,San Antonio,Orlando,1,3+
+21800457,New York,Philadelphia,3IN4,3IN4
+21800458,Phoenix,Boston,1,3+
+21800459,Indiana,Toronto,3IN4-B2B,2
+21800460,Brooklyn,Chicago,3IN4-B2B,1
+21800461,Washington,Houston,3IN4-B2B,1
+21800462,New Orleans,Milwaukee,2,1
+21800463,Detroit,Minnesota,1,1
+21800464,Golden State,Utah,1,1
+21800465,Memphis,Portland,1,1
+21800466,Oklahoma City,Sacramento,1,3IN4
+21800467,Houston,Miami,3IN4-B2B,3+
+21800468,Dallas,LA Clippers,1,2
+21800469,Detroit,Charlotte,1,1
+21800470,Cleveland,Toronto,3IN4,1
+21800471,Indiana,Brooklyn,3IN4,3IN4
+21800472,Atlanta,New York,2,1
+21800473,Milwaukee,Boston,1,1
+21800474,Orlando,Chicago,1,1
+21800475,Minnesota,San Antonio,1,1
+21800476,Utah,Portland,1,1
+21800477,Memphis,Sacramento,1,1
+21800478,New Orleans,LA Lakers,1,2
+21800479,Denver,LA Clippers,3+,1
+21800480,Phoenix,Washington,2,2
+21800481,Toronto,Philadelphia,3IN4-B2B,2
+21800482,Milwaukee,Miami,3IN4-B2B,1
+21800483,San Antonio,Houston,3IN4-B2B,3IN4
+21800484,Dallas,Golden State,1,2
+21800485,Oklahoma City,Utah,2,3IN4-B2B
+21800486,Atlanta,Detroit,1,1
+21800487,Washington,Indiana,B2B,1
+21800488,Charlotte,Boston,1,1
+21800489,Phoenix,Brooklyn,B2B,1
+21800490,Chicago,Cleveland,1,1
+21800491,Miami,Orlando,3IN4-B2B,1
+21800492,New Orleans,Sacramento,1,1
+21800493,Minnesota,Oklahoma City,1,B2B
+21800494,LA Clippers,Golden State,3IN4-B2B,B2B
+21800495,Dallas,Portland,3IN4-B2B,1
+21800496,Memphis,LA Lakers,1,1
+21800497,Milwaukee,New York,2,3+
+21800498,Oklahoma City,Houston,3IN4,2
+21800499,Philadelphia,Boston,2,1
+21800500,LA Lakers,Golden State,1,3IN4
+21800501,Portland,Utah,1,2
+21800502,Washington,Detroit,2,2
+21800503,Phoenix,Orlando,2,2
+21800504,Indiana,Atlanta,2,2
+21800505,Charlotte,Brooklyn,2,2
+21800506,Toronto,Miami,3+,2
+21800507,Minnesota,Chicago,2,2
+21800508,Cleveland,Memphis,2,2
+21800509,New Orleans,Dallas,2,2
+21800510,Denver,San Antonio,3+,3+
+21800511,Sacramento,LA Clippers,2,2
+21800512,Boston,Houston,1,1
+21800513,New York,Milwaukee,1,1
+21800514,LA Lakers,Sacramento,1,B2B
+21800515,Philadelphia,Utah,1,1
+21800516,Portland,Golden State,1,1
+21800517,Brooklyn,Charlotte,1,1
+21800518,Detroit,Indiana,1,1
+21800519,Toronto,Orlando,1,1
+21800520,Chicago,Washington,1,1
+21800521,Cleveland,Miami,1,1
+21800522,Atlanta,Minnesota,1,1
+21800523,Dallas,New Orleans,1,1
+21800524,San Antonio,Denver,1,1
+21800525,Oklahoma City,Phoenix,2,1
+21800526,LA Clippers,LA Lakers,1,3IN4-B2B
+21800527,Brooklyn,Milwaukee,3IN4-B2B,1
+21800528,Houston,New Orleans,1,3IN4-B2B
+21800529,Cleveland,Atlanta,3IN4-B2B,3IN4-B2B
+21800530,Charlotte,Washington,3IN4-B2B,3IN4-B2B
+21800531,Boston,Memphis,1,2
+21800532,New York,Utah,1,1
+21800533,Denver,Phoenix,3IN4-B2B,3IN4-B2B
+21800534,Golden State,Portland,1,1
+21800535,San Antonio,LA Clippers,3IN4-B2B,3IN4-B2B
+21800536,Detroit,Orlando,1,1
+21800537,Minnesota,Miami,1,1
+21800538,Chicago,Toronto,1,1
+21800539,Oklahoma City,Dallas,1,1
+21800540,Philadelphia,Portland,2,3IN4-B2B
+21800541,Sacramento,LA Lakers,2,3IN4
+21800542,Atlanta,Indiana,3IN4,2
+21800543,Orlando,Charlotte,3IN4-B2B,3IN4
+21800544,Memphis,Houston,1,1
+21800545,Boston,San Antonio,1,3IN4
+21800546,Minnesota,New Orleans,3IN4-B2B,3IN4
+21800547,Dallas,Oklahoma City,3IN4-B2B,3IN4-B2B
+21800548,Golden State,Phoenix,1,3IN4
+21800549,Utah,Toronto,2,1
+21800550,Detroit,Milwaukee,1,2
+21800551,New York,Denver,2,2
+21800552,Portland,Sacramento,3IN4,1
+21800553,Philadelphia,LA Clippers,1,2
+21800554,Dallas,Charlotte,3IN4,1
+21800555,Miami,Cleveland,2,3+
+21800556,Atlanta,Washington,1,3+
+21800557,New Orleans,Brooklyn,1,3+
+21800558,Minnesota,Boston,3IN4,1
+21800559,Orlando,Chicago,3IN4,2
+21800560,Detroit,Memphis,3IN4-B2B,1
+21800561,Philadelphia,Phoenix,3IN4-B2B,1
+21800562,Oklahoma City,LA Lakers,3IN4,2
+21800563,Toronto,San Antonio,1,2
+21800564,Denver,Sacramento,1,1
+21800565,Houston,Golden State,2,2
+21800566,Dallas,Boston,1,1
+21800567,Utah,Cleveland,2,1
+21800568,Washington,Miami,1,1
+21800569,Indiana,Chicago,3+,1
+21800570,Brooklyn,Memphis,1,1
+21800571,Orlando,Minnesota,1,1
+21800572,Atlanta,Milwaukee,1,2
+21800573,LA Clippers,Phoenix,2,1
+21800574,New York,LA Lakers,2,1
+21800575,Oklahoma City,Portland,1,2
+21800576,Charlotte,Denver,2,1
+21800577,Utah,Detroit,B2B,2
+21800578,Dallas,Philadelphia,3IN4-B2B,2
+21800579,New Orleans,Cleveland,2,3IN4-B2B
+21800580,Toronto,Milwaukee,1,B2B
+21800581,Memphis,San Antonio,3IN4-B2B,1
+21800582,Houston,Portland,1,B2B
+21800583,Golden State,Sacramento,1,1
+21800584,Brooklyn,Chicago,1,1
+21800585,LA Lakers,Minnesota,1,1
+21800586,Orlando,LA Clippers,1,1
+21800587,Miami,Atlanta,1,1
+21800588,Washington,Oklahoma City,1,1
+21800589,Indiana,Toronto,1,3IN4-B2B
+21800590,Charlotte,Phoenix,B2B,1
+21800591,San Antonio,Detroit,1,1
+21800592,Brooklyn,Boston,3IN4-B2B,2
+21800593,Denver,Houston,1,1
+21800594,Utah,Milwaukee,3IN4,3IN4
+21800595,Memphis,New Orleans,3IN4,1
+21800596,LA Lakers,Dallas,3IN4-B2B,3IN4
+21800597,New York,Portland,2,3IN4
+21800598,Orlando,Sacramento,3IN4-B2B,1
+21800599,Indiana,Cleveland,1,2
+21800600,Washington,Philadelphia,1,2
+21800601,Denver,Miami,3IN4-B2B,1
+21800602,Atlanta,Toronto,1,3IN4
+21800603,Minnesota,Oklahoma City,1,1
+21800604,Sacramento,Phoenix,3IN4-B2B,1
+21800605,New York,Golden State,B2B,2
+21800606,Charlotte,LA Clippers,3IN4,1
+21800607,Indiana,Boston,3IN4-B2B,1
+21800608,Philadelphia,Washington,B2B,3IN4-B2B
+21800609,Atlanta,Brooklyn,3IN4-B2B,3IN4
+21800610,Milwaukee,Houston,1,1
+21800611,San Antonio,Memphis,1,1
+21800612,Cleveland,New Orleans,B2B,1
+21800613,Phoenix,Dallas,3IN4-B2B,1
+21800614,Orlando,Utah,3IN4,1
+21800615,Chicago,Portland,2,1
+21800616,Detroit,LA Lakers,1,3IN4
+21800617,Boston,Miami,3IN4-B2B,1
+21800618,LA Clippers,Denver,1,3IN4
+21800619,Oklahoma City,San Antonio,1,3IN4-B2B
+21800620,Detroit,Sacramento,3IN4-B2B,3IN4
+21800621,Atlanta,Philadelphia,3IN4,3IN4
+21800622,Milwaukee,Washington,1,3IN4
+21800623,Indiana,New York,3IN4,2
+21800624,Brooklyn,Toronto,1,2
+21800625,Cleveland,Houston,3IN4,1
+21800626,Dallas,Minnesota,1,2
+21800627,LA Lakers,Utah,1,1
+21800628,Charlotte,Portland,2,1
+21800629,Chicago,Golden State,1,2
+21800630,Detroit,LA Clippers,3IN4,1
+21800631,Memphis,Miami,2,1
+21800632,Boston,Orlando,3IN4,2
+21800633,New Orleans,Minnesota,2,B2B
+21800634,San Antonio,Oklahoma City,3IN4,1
+21800635,Denver,Phoenix,1,2
+21800636,Charlotte,Sacramento,B2B,1
+21800637,Chicago,Utah,3IN4-B2B,3IN4-B2B
+21800638,Philadelphia,New York,1,1
+21800639,Toronto,Washington,1,1
+21800640,Milwaukee,Atlanta,1,1
+21800641,Houston,Orlando,1,B2B
+21800642,Golden State,Dallas,1,1
+21800643,Portland,Denver,1,3IN4-B2B
+21800644,Cleveland,LA Lakers,1,1
+21800645,Boston,Brooklyn,1,2
+21800646,Memphis,Houston,1,3IN4-B2B
+21800647,Charlotte,San Antonio,3IN4,1
+21800648,Detroit,Utah,1,3IN4
+21800649,Portland,Sacramento,3IN4-B2B,1
+21800650,New Orleans,LA Clippers,1,1
+21800651,Phoenix,Indiana,2,3+
+21800652,Minnesota,Philadelphia,2,1
+21800653,Oklahoma City,Atlanta,2,1
+21800654,Miami,Milwaukee,2,1
+21800655,Golden State,Denver,1,3IN4
+21800656,Chicago,LA Lakers,2,1
+21800657,Orlando,Detroit,2,1
+21800658,Toronto,Boston,2,1
+21800659,Brooklyn,Houston,1,3IN4
+21800660,Milwaukee,Memphis,3IN4-B2B,1
+21800661,San Antonio,Dallas,1,2
+21800662,Cleveland,Portland,2,3IN4
+21800663,New Orleans,Golden State,1,3IN4-B2B
+21800664,Utah,LA Clippers,1,1
+21800665,New York,Washington,3+,3+
+21800666,Sacramento,Charlotte,2,2
+21800667,Philadelphia,Indiana,1,1
+21800668,Phoenix,Toronto,1,B2B
+21800669,Chicago,Denver,1,1
+21800670,LA Lakers,Oklahoma City,1,1
+21800671,Memphis,Boston,1,1
+21800672,Miami,Detroit,2,1
+21800673,Brooklyn,Orlando,1,1
+21800674,San Antonio,Minnesota,1,2
+21800675,Cleveland,Utah,1,1
+21800676,Golden State,LA Clippers,3IN4,1
+21800677,New Orleans,Portland,1,1
+21800678,Oklahoma City,Philadelphia,1,1
+21800679,Phoenix,Charlotte,1,1
+21800680,Sacramento,Detroit,1,3IN4-B2B
+21800681,Dallas,Indiana,2,1
+21800682,Milwaukee,Orlando,2,3IN4-B2B
+21800683,Boston,Atlanta,3IN4-B2B,3+
+21800684,Memphis,Toronto,3IN4-B2B,3IN4
+21800685,Miami,Chicago,B2B,1
+21800686,LA Lakers,Houston,1,2
+21800687,Cleveland,Denver,3IN4-B2B,1
+21800688,Charlotte,Indiana,3IN4-B2B,3IN4-B2B
+21800689,Phoenix,Minnesota,3IN4-B2B,1
+21800690,LA Clippers,San Antonio,1,1
+21800691,Oklahoma City,New York,1,3+
+21800692,Chicago,Cleveland,1,3IN4
+21800693,Detroit,Washington,3IN4,3+
+21800694,Dallas,Milwaukee,1,1
+21800695,Orlando,Atlanta,3IN4,1
+21800696,Sacramento,Brooklyn,1,2
+21800697,New Orleans,Memphis,2,3IN4
+21800698,Miami,Boston,3IN4,3IN4
+21800699,Houston,Philadelphia,1,1
+21800700,Portland,Utah,2,2
+21800701,Golden State,LA Lakers,2,1
+21800702,Sacramento,Toronto,3IN4-B2B,2
+21800703,Portland,Oklahoma City,B2B,3IN4-B2B
+21800704,LA Clippers,Dallas,1,3IN4-B2B
+21800705,Minnesota,Phoenix,1,3IN4
+21800706,Toronto,Indiana,B2B,2
+21800707,Cleveland,Boston,1,1
+21800708,Orlando,Brooklyn,1,1
+21800709,LA Clippers,Miami,3IN4-B2B,1
+21800710,Houston,New York,1,1
+21800711,San Antonio,Philadelphia,2,1
+21800712,Atlanta,Chicago,1,1
+21800713,Charlotte,Memphis,2,1
+21800714,Detroit,New Orleans,1,1
+21800715,Denver,Utah,3+,1
+21800716,Golden State,Washington,2,2
+21800717,New Orleans,Oklahoma City,3IN4-B2B,3IN4
+21800718,Portland,Phoenix,3IN4,1
+21800719,Minnesota,LA Lakers,1,2
+21800720,Washington,Orlando,B2B,1
+21800721,New York,Brooklyn,1,1
+21800722,Miami,Cleveland,1,1
+21800723,LA Clippers,Chicago,3IN4,1
+21800724,Toronto,Houston,3IN4,1
+21800725,Sacramento,Memphis,2,1
+21800726,Detroit,Dallas,1,2
+21800727,Charlotte,Milwaukee,1,3+
+21800728,Phoenix,Denver,3IN4-B2B,1
+21800729,Minnesota,Utah,3IN4-B2B,1
+21800730,San Antonio,New Orleans,2,3IN4
+21800731,Indiana,Memphis,2,3IN4-B2B
+21800732,Golden State,Boston,1,2
+21800733,Philadelphia,Denver,2,3IN4-B2B
+21800734,Atlanta,Portland,2,1
+21800735,Cleveland,Chicago,1,1
+21800736,Sacramento,LA Clippers,1,1
+21800737,Orlando,Houston,1,1
+21800738,Milwaukee,Oklahoma City,1,2
+21800739,Toronto,Dallas,1,1
+21800740,Utah,Minnesota,1,3IN4
+21800741,Miami,New York,1,1
+21800742,Washington,San Antonio,3IN4,B2B
+21800743,Phoenix,LA Lakers,3IN4,2
+21800744,New York,Charlotte,3IN4-B2B,2
+21800745,Golden State,Indiana,1,1
+21800746,Brooklyn,Boston,2,1
+21800747,Denver,Memphis,3IN4,3IN4
+21800748,Atlanta,LA Clippers,1,3IN4-B2B
+21800749,Washington,Cleveland,1,1
+21800750,Milwaukee,Detroit,1,3+
+21800751,Oklahoma City,Orlando,1,1
+21800752,Chicago,Brooklyn,1,B2B
+21800753,New Orleans,Houston,2,1
+21800754,Phoenix,San Antonio,1,3IN4
+21800755,Philadelphia,LA Lakers,2,1
+21800756,Charlotte,Boston,1,1
+21800757,Chicago,Miami,3IN4-B2B,2
+21800758,Dallas,New York,2,3IN4
+21800759,Indiana,Washington,1,3IN4-B2B
+21800760,Memphis,Minnesota,1,2
+21800761,Denver,New Orleans,1,B2B
+21800762,Atlanta,Sacramento,1,2
+21800763,Utah,Portland,2,3+
+21800764,Dallas,Detroit,B2B,1
+21800765,Indiana,Orlando,3IN4-B2B,1
+21800766,Milwaukee,Toronto,1,3+
+21800767,Brooklyn,San Antonio,3IN4,1
+21800768,Philadelphia,Golden State,1,2
+21800769,LA Lakers,LA Clippers,1,2
+21800770,Memphis,Charlotte,1,1
+21800771,Boston,New York,1,1
+21800772,Oklahoma City,Miami,2,1
+21800773,Atlanta,Utah,1,1
+21800774,Houston,Denver,2,1
+21800775,LA Clippers,Detroit,1,1
+21800776,Chicago,Charlotte,2,3IN4-B2B
+21800777,Brooklyn,Orlando,1,1
+21800778,Milwaukee,Washington,1,2
+21800779,New Orleans,San Antonio,2,1
+21800780,Dallas,Cleveland,3IN4,3+
+21800781,Indiana,Miami,3IN4,3IN4-B2B
+21800782,LA Lakers,Golden State,1,1
+21800783,Denver,Minnesota,3IN4-B2B,2
+21800784,Atlanta,Phoenix,3IN4-B2B,3+
+21800785,Philadelphia,Sacramento,1,2
+21800786,Houston,Utah,B2B,3IN4-B2B
+21800787,Memphis,New York,1,1
+21800788,Oklahoma City,Boston,1,1
+21800789,LA Clippers,Toronto,3IN4-B2B,2
+21800790,Denver,Detroit,3IN4,1
+21800791,Atlanta,Washington,3IN4,1
+21800792,Milwaukee,Brooklyn,1,1
+21800793,Indiana,New Orleans,1,1
+21800794,Houston,Phoenix,3IN4,1
+21800795,San Antonio,Sacramento,1,1
+21800796,LA Clippers,Charlotte,3IN4,2
+21800797,Boston,Cleveland,1,2
+21800798,LA Lakers,Indiana,2,3IN4-B2B
+21800799,Detroit,New York,3IN4-B2B,1
+21800800,Toronto,Philadelphia,1,2
+21800801,Minnesota,Memphis,2,1
+21800802,Orlando,Oklahoma City,2,1
+21800803,Miami,Portland,2,3+
+21800804,Denver,Brooklyn,1,1
+21800805,New Orleans,Chicago,1,3+
+21800806,Washington,Milwaukee,1,1
+21800807,Charlotte,Dallas,B2B,3+
+21800808,Phoenix,Utah,1,3+
+21800809,Houston,Sacramento,1,1
+21800810,San Antonio,Golden State,1,3+
+21800811,LA Clippers,Indiana,1,3IN4
+21800812,Minnesota,Orlando,1,1
+21800813,Toronto,Atlanta,1,2
+21800814,LA Lakers,Boston,1,1
+21800815,Memphis,Oklahoma City,1,1
+21800816,San Antonio,Portland,3IN4-B2B,1
+21800817,New York,Detroit,2,2
+21800818,Denver,Philadelphia,1,2
+21800819,Cleveland,Washington,2,1
+21800820,Chicago,Brooklyn,1,1
+21800821,Milwaukee,Dallas,1,1
+21800822,Golden State,Phoenix,1,1
+21800823,Minnesota,New Orleans,3IN4-B2B,1
+21800824,Miami,Sacramento,2,1
+21800825,San Antonio,Utah,3IN4,2
+21800826,Cleveland,Indiana,B2B,1
+21800827,Charlotte,Atlanta,2,1
+21800828,Toronto,New York,1,B2B
+21800829,LA Clippers,Boston,1,1
+21800830,Washington,Chicago,3IN4-B2B,3IN4-B2B
+21800831,New Orleans,Memphis,3IN4-B2B,1
+21800832,Oklahoma City,Houston,1,2
+21800833,Orlando,Milwaukee,1,3IN4-B2B
+21800834,Portland,Dallas,2,1
+21800835,LA Lakers,Philadelphia,2,1
+21800836,Phoenix,Sacramento,1,1
+21800837,Orlando,Atlanta,3IN4-B2B,3IN4-B2B
+21800838,Miami,Golden State,1,1
+21800839,New York,Cleveland,3IN4,3IN4
+21800840,Washington,Detroit,3IN4,2
+21800841,Charlotte,Indiana,1,1
+21800842,Brooklyn,Toronto,2,1
+21800843,Milwaukee,Chicago,3IN4,3IN4
+21800844,Dallas,Houston,3IN4-B2B,1
+21800845,LA Clippers,Minnesota,1,2
+21800846,Portland,Oklahoma City,B2B,1
+21800847,Miami,Denver,3IN4-B2B,2
+21800848,LA Lakers,Atlanta,1,3IN4
+21800849,Boston,Philadelphia,2,1
+21800850,San Antonio,Memphis,2,2
+21800851,Orlando,New Orleans,3IN4,2
+21800852,Utah,Golden State,2,1
+21800853,Brooklyn,Cleveland,1,1
+21800854,Milwaukee,Indiana,1,1
+21800855,Detroit,Boston,1,B2B
+21800856,Philadelphia,New York,3IN4-B2B,1
+21800857,Washington,Toronto,1,1
+21800858,Memphis,Chicago,B2B,1
+21800859,Miami,Dallas,3IN4,3IN4
+21800860,Sacramento,Denver,2,1
+21800861,Houston,Minnesota,1,1
+21800862,Golden State,Portland,3IN4-B2B,3IN4
+21800863,Phoenix,LA Clippers,2,1
+21800864,Charlotte,Orlando,2,1
+21800865,New York,Atlanta,3IN4-B2B,1
+21800866,Oklahoma City,New Orleans,2,1
+21800867,Phoenix,Cleveland,3+,3+
+21800868,Miami,Philadelphia,3+,3+
+21800869,Portland,Brooklyn,3+,3+
+21800870,Boston,Milwaukee,3+,3+
+21800871,Sacramento,Golden State,3+,3+
+21800872,Houston,LA Lakers,3+,3+
+21800873,Washington,Charlotte,3+,3+
+21800874,New Orleans,Indiana,3+,3+
+21800875,Chicago,Orlando,3+,3+
+21800876,San Antonio,Toronto,3+,3+
+21800877,Detroit,Atlanta,3+,3+
+21800878,Minnesota,New York,3+,3+
+21800879,LA Clippers,Memphis,3+,3+
+21800880,Denver,Dallas,3+,3+
+21800881,Utah,Oklahoma City,3+,3+
+21800882,Portland,Philadelphia,1,1
+21800883,Phoenix,Atlanta,1,B2B
+21800884,Brooklyn,Charlotte,1,B2B
+21800885,Memphis,Cleveland,B2B,1
+21800886,Indiana,Washington,B2B,B2B
+21800887,LA Lakers,New Orleans,1,B2B
+21800888,Detroit,Miami,B2B,1
+21800889,Boston,Chicago,1,B2B
+21800890,Sacramento,Oklahoma City,1,B2B
+21800891,Minnesota,Milwaukee,B2B,1
+21800892,Houston,Golden State,1,1
+21800893,Dallas,Utah,B2B,B2B
+21800894,Orlando,Toronto,1,1
+21800895,LA Clippers,Denver,1,1
+21800896,San Antonio,New York,1,1
+21800897,Golden State,Charlotte,1,3IN4
+21800898,Portland,Cleveland,1,1
+21800899,Indiana,Detroit,3IN4,3IN4
+21800900,San Antonio,Brooklyn,3IN4-B2B,1
+21800901,Phoenix,Miami,1,1
+21800902,Milwaukee,Chicago,1,3IN4
+21800903,Atlanta,Houston,3IN4,1
+21800904,LA Lakers,Memphis,1,3IN4
+21800905,Sacramento,Minnesota,1,3IN4
+21800906,Philadelphia,New Orleans,1,3IN4
+21800907,Dallas,LA Clippers,3IN4,3IN4-B2B
+21800908,Orlando,New York,1,1
+21800909,Boston,Toronto,2,1
+21800910,Oklahoma City,Denver,2,1
+21800911,Houston,Charlotte,1,1
+21800912,Minnesota,Atlanta,1,1
+21800913,Portland,Boston,1,B2B
+21800914,Washington,Brooklyn,3+,1
+21800915,Golden State,Miami,1,1
+21800916,Chicago,Memphis,1,1
+21800917,Detroit,San Antonio,1,3IN4
+21800918,Indiana,Dallas,1,1
+21800919,LA Clippers,Utah,3IN4,3+
+21800920,Milwaukee,Sacramento,1,1
+21800921,New Orleans,LA Lakers,1,1
+21800922,Minnesota,Indiana,3IN4-B2B,3IN4-B2B
+21800923,Golden State,Orlando,3IN4-B2B,1
+21800924,Cleveland,New York,2,1
+21800925,Miami,Houston,3IN4-B2B,3IN4-B2B
+21800926,Utah,Denver,B2B,1
+21800927,Philadelphia,Oklahoma City,2,1
+21800928,Chicago,Atlanta,1,1
+21800929,Charlotte,Brooklyn,1,1
+21800930,Portland,Toronto,1,2
+21800931,Washington,Boston,1,3IN4
+21800932,New Orleans,Phoenix,1,3+
+21800933,LA Clippers,Sacramento,1,1
+21800934,Milwaukee,LA Lakers,1,1
+21800935,Detroit,Cleveland,2,1
+21800936,Orlando,Indiana,1,3IN4
+21800937,Brooklyn,Miami,3IN4-B2B,3IN4
+21800938,Golden State,Philadelphia,3IN4,1
+21800939,Memphis,Dallas,2,2
+21800940,Oklahoma City,San Antonio,1,2
+21800941,New Orleans,Denver,3IN4-B2B,1
+21800942,LA Lakers,Phoenix,3IN4-B2B,B2B
+21800943,Milwaukee,Utah,3IN4-B2B,3IN4
+21800944,Portland,Charlotte,1,1
+21800945,Houston,Boston,2,1
+21800946,Atlanta,Chicago,1,1
+21800947,New York,LA Clippers,2,1
+21800948,Orlando,Cleveland,3IN4-B2B,3IN4-B2B
+21800949,Toronto,Detroit,1,B2B
+21800950,Minnesota,Washington,2,1
+21800951,Memphis,Oklahoma City,B2B,3IN4-B2B
+21800952,Dallas,Brooklyn,1,3IN4
+21800953,Atlanta,Miami,3IN4-B2B,1
+21800954,Denver,San Antonio,1,1
+21800955,Milwaukee,Phoenix,3IN4,3IN4
+21800956,New Orleans,Utah,3IN4,1
+21800957,New York,Sacramento,B2B,2
+21800958,LA Clippers,LA Lakers,3IN4-B2B,3IN4
+21800959,Chicago,Indiana,1,2
+21800960,Orlando,Philadelphia,3IN4,2
+21800961,Houston,Toronto,1,1
+21800962,Portland,Memphis,1,3IN4
+21800963,Oklahoma City,Minnesota,3IN4,1
+21800964,Boston,Golden State,1,2
+21800965,Miami,Charlotte,1,2
+21800966,Minnesota,Detroit,3IN4-B2B,2
+21800967,Dallas,Washington,1,2
+21800968,San Antonio,Atlanta,1,3IN4
+21800969,Cleveland,Brooklyn,2,1
+21800970,Philadelphia,Chicago,B2B,3IN4-B2B
+21800971,Utah,New Orleans,1,1
+21800972,New York,Phoenix,3IN4,1
+21800973,Boston,Sacramento,3IN4-B2B,1
+21800974,Denver,LA Lakers,1,1
+21800975,Indiana,Milwaukee,1,2
+21800976,Oklahoma City,Portland,1,1
+21800977,Washington,Charlotte,1,1
+21800978,Dallas,Orlando,1,2
+21800979,Cleveland,Miami,1,1
+21800980,Detroit,Chicago,1,3IN4
+21800981,Philadelphia,Houston,3IN4,2
+21800982,Utah,Memphis,1,2
+21800983,Toronto,New Orleans,2,1
+21800984,Denver,Golden State,1,2
+21800985,Oklahoma City,LA Clippers,3IN4-B2B,3+
+21800986,Sacramento,New York,2,2
+21800987,Brooklyn,Atlanta,2,2
+21800988,Washington,Minnesota,3IN4-B2B,2
+21800989,Boston,LA Lakers,2,2
+21800990,Charlotte,Milwaukee,3IN4-B2B,1
+21800991,Phoenix,Portland,2,1
+21800992,Chicago,Detroit,1,1
+21800993,Toronto,Miami,1,1
+21800994,Indiana,Philadelphia,2,1
+21800995,New Orleans,Atlanta,1,B2B
+21800996,Orlando,Memphis,1,1
+21800997,Houston,Dallas,1,1
+21800998,New York,Minnesota,B2B,B2B
+21800999,Milwaukee,San Antonio,3IN4-B2B,3+
+21801000,Phoenix,Golden State,B2B,1
+21801001,Toronto,Cleveland,3IN4-B2B,2
+21801002,Sacramento,Washington,1,3IN4
+21801003,Detroit,Brooklyn,3IN4-B2B,1
+21801004,Charlotte,Houston,3IN4,3IN4-B2B
+21801005,Oklahoma City,Utah,2,2
+21801006,Boston,LA Clippers,1,2
+21801007,New York,Indiana,3IN4,1
+21801008,Cleveland,Philadelphia,B2B,1
+21801009,LA Lakers,Chicago,2,1
+21801010,Milwaukee,New Orleans,3IN4,1
+21801011,San Antonio,Dallas,1,1
+21801012,Minnesota,Denver,3IN4,3+
+21801013,Portland,LA Clippers,2,B2B
+21801014,Detroit,Miami,3IN4,2
+21801015,Orlando,Washington,2,1
+21801016,Memphis,Atlanta,2,2
+21801017,Brooklyn,Oklahoma City,1,1
+21801018,Golden State,Houston,2,3IN4
+21801019,Utah,Phoenix,1,2
+21801020,Oklahoma City,Indiana,3IN4-B2B,1
+21801021,Cleveland,Orlando,3IN4,B2B
+21801022,Sacramento,Boston,2,2
+21801023,LA Lakers,Toronto,1,2
+21801024,Minnesota,Utah,1,3IN4-B2B
+21801025,Dallas,Denver,1,1
+21801026,LA Lakers,Detroit,3IN4-B2B,1
+21801027,Sacramento,Philadelphia,B2B,2
+21801028,Charlotte,Washington,3+,1
+21801029,Milwaukee,Miami,2,1
+21801030,Phoenix,Houston,1,1
+21801031,Portland,New Orleans,2,2
+21801032,New York,San Antonio,2,2
+21801033,Chicago,LA Clippers,2,2
+21801034,Atlanta,Boston,2,1
+21801035,Memphis,Washington,2,3IN4-B2B
+21801036,Phoenix,New Orleans,3IN4-B2B,B2B
+21801037,Cleveland,Dallas,1,1
+21801038,Golden State,Oklahoma City,2,3IN4
+21801039,Portland,San Antonio,B2B,B2B
+21801040,Indiana,Denver,1,1
+21801041,Brooklyn,Utah,2,3IN4
+21801042,LA Lakers,New York,3IN4,1
+21801043,Philadelphia,Milwaukee,1,1
+21801044,Toronto,Detroit,2,1
+21801045,Charlotte,Miami,1,1
+21801046,Atlanta,Orlando,B2B,2
+21801047,Chicago,Sacramento,1,3IN4
+21801048,Minnesota,Houston,2,1
+21801049,Brooklyn,LA Clippers,B2B,1
+21801050,Detroit,Cleveland,3IN4-B2B,1
+21801051,Utah,Washington,1,3IN4
+21801052,Denver,Boston,1,1
+21801053,New York,Toronto,3IN4-B2B,B2B
+21801054,Miami,Oklahoma City,3IN4-B2B,1
+21801055,Golden State,San Antonio,1,3IN4
+21801056,New Orleans,Dallas,3IN4,1
+21801057,Chicago,Phoenix,3IN4-B2B,3IN4
+21801058,Indiana,Portland,1,3IN4
+21801059,Philadelphia,Charlotte,1,1
+21801060,Houston,Atlanta,1,3IN4
+21801061,LA Lakers,Milwaukee,1,1
+21801062,Golden State,Minnesota,3IN4-B2B,1
+21801063,Brooklyn,Sacramento,3IN4,1
+21801064,Indiana,LA Clippers,3IN4-B2B,1
+21801065,Milwaukee,Cleveland,3IN4-B2B,1
+21801066,New Orleans,Orlando,1,2
+21801067,Boston,Philadelphia,1,3IN4-B2B
+21801068,Utah,New York,1,3IN4
+21801069,Washington,Chicago,1,3IN4
+21801070,Houston,Memphis,3IN4-B2B,3+
+21801071,Miami,San Antonio,3IN4,1
+21801072,Toronto,Oklahoma City,3IN4,1
+21801073,Dallas,Portland,1,1
+21801074,Minnesota,Charlotte,1,1
+21801075,Denver,Washington,2,3IN4-B2B
+21801076,Utah,Atlanta,3IN4-B2B,1
+21801077,Detroit,Phoenix,2,2
+21801078,Dallas,Sacramento,3IN4-B2B,1
+21801079,Indiana,Golden State,3IN4,3IN4
+21801080,Memphis,Orlando,1,1
+21801081,LA Clippers,Cleveland,2,1
+21801082,Denver,New York,B2B,1
+21801083,Oklahoma City,Toronto,1,1
+21801084,San Antonio,Houston,1,3IN4
+21801085,Miami,Milwaukee,1,3IN4
+21801086,Brooklyn,LA Lakers,2,2
+21801087,Boston,Charlotte,2,1
+21801088,Philadelphia,Atlanta,2,1
+21801089,Miami,Washington,3IN4-B2B,3IN4
+21801090,Utah,Chicago,3IN4,2
+21801091,Minnesota,Memphis,1,3IN4-B2B
+21801092,Dallas,Golden State,3IN4,1
+21801093,Detroit,Portland,1,2
+21801094,Phoenix,Sacramento,1,1
+21801095,LA Clippers,New York,1,1
+21801096,Cleveland,Milwaukee,1,1
+21801097,Denver,Indiana,3IN4,2
+21801098,Charlotte,Toronto,3IN4-B2B,1
+21801099,Houston,New Orleans,1,3+
+21801100,San Antonio,Boston,1,B2B
+21801101,Detroit,Golden State,3IN4-B2B,3IN4-B2B
+21801102,Sacramento,LA Lakers,3IN4-B2B,1
+21801103,Philadelphia,Orlando,1,2
+21801104,Oklahoma City,Memphis,2,3IN4
+21801105,Phoenix,Utah,1,1
+21801106,Brooklyn,Portland,2,1
+21801107,San Antonio,Charlotte,1,3IN4
+21801108,Boston,Cleveland,3IN4,1
+21801109,Orlando,Miami,B2B,2
+21801110,Chicago,Toronto,2,1
+21801111,Houston,Milwaukee,1,1
+21801112,LA Clippers,Minnesota,1,2
+21801113,Atlanta,New Orleans,2,1
+21801114,Sacramento,Dallas,3IN4,2
+21801115,Detroit,Denver,3IN4,1
+21801116,Washington,LA Lakers,2,1
+21801117,Portland,Chicago,1,B2B
+21801118,Golden State,Memphis,2,1
+21801119,Indiana,Oklahoma City,2,1
+21801120,Washington,Phoenix,B2B,1
+21801121,LA Lakers,Utah,3IN4-B2B,1
+21801122,Orlando,Detroit,3IN4,1
+21801123,Brooklyn,Philadelphia,2,2
+21801124,Dallas,Miami,1,1
+21801125,Toronto,New York,1,3+
+21801126,Denver,Houston,1,1
+21801127,LA Clippers,Milwaukee,1,1
+21801128,Sacramento,New Orleans,1,1
+21801129,Cleveland,San Antonio,1,1
+21801130,Indiana,Boston,1,2
+21801131,Portland,Atlanta,1,2
+21801132,Golden State,Minnesota,1,2
+21801133,Denver,Oklahoma City,3IN4-B2B,1
+21801134,Washington,Utah,3IN4,1
+21801135,Charlotte,LA Lakers,2,3IN4
+21801136,Cleveland,LA Clippers,1,1
+21801137,Boston,Brooklyn,B2B,1
+21801138,Sacramento,Houston,1,1
+21801139,Portland,Detroit,3IN4-B2B,1
+21801140,Orlando,Indiana,1,3IN4-B2B
+21801141,Miami,New York,1,1
+21801142,Toronto,Chicago,1,2
+21801143,Philadelphia,Minnesota,1,B2B
+21801144,Memphis,Phoenix,2,2
+21801145,Milwaukee,Atlanta,2,1
+21801146,Dallas,Oklahoma City,2,1
+21801147,LA Lakers,New Orleans,1,2
+21801148,Washington,Denver,1,3IN4
+21801149,Sacramento,San Antonio,3IN4-B2B,2
+21801150,Charlotte,Golden State,1,1
+21801151,Memphis,LA Clippers,B2B,3IN4-B2B
+21801152,Detroit,Indiana,1,3IN4
+21801153,Miami,Boston,1,3IN4
+21801154,Milwaukee,Brooklyn,B2B,1
+21801155,Chicago,New York,1,1
+21801156,Orlando,Toronto,1,1
+21801157,Portland,Minnesota,3IN4,3IN4
+21801158,Philadelphia,Dallas,1,B2B
+21801159,Charlotte,Utah,3IN4-B2B,2
+21801160,Cleveland,Phoenix,1,1
+21801161,LA Lakers,Oklahoma City,1,1
+21801162,Atlanta,San Antonio,1,1
+21801163,Houston,Sacramento,2,3IN4
+21801164,Denver,Golden State,1,1
+21801165,Indiana,Detroit,1,1
+21801166,New York,Orlando,1,1
+21801167,Chicago,Washington,1,2
+21801168,Philadelphia,Atlanta,1,3IN4-B2B
+21801169,Toronto,Brooklyn,1,1
+21801170,Boston,Miami,1,1
+21801171,Charlotte,New Orleans,3IN4,2
+21801172,Minnesota,Dallas,1,3IN4
+21801173,San Antonio,Denver,3IN4-B2B,3IN4-B2B
+21801174,Utah,Phoenix,1,1
+21801175,Memphis,Portland,2,1
+21801176,Houston,LA Clippers,B2B,2
+21801177,Milwaukee,Philadelphia,2,3IN4-B2B
+21801178,Cleveland,Sacramento,2,1
+21801179,Golden State,LA Lakers,1,1
+21801180,Toronto,Charlotte,1,1
+21801181,Atlanta,Orlando,3IN4,1
+21801182,San Antonio,Washington,3IN4,1
+21801183,Boston,Indiana,1,1
+21801184,New York,Houston,1,3IN4
+21801185,Miami,Minnesota,1,1
+21801186,Detroit,Oklahoma City,1,2
+21801187,Memphis,Dallas,1,1
+21801188,Sacramento,Utah,3IN4-B2B,1
+21801189,New Orleans,Phoenix,1,1
+21801190,Portland,Denver,1,3IN4
+21801191,Cleveland,Golden State,B2B,3IN4-B2B
+21801192,LA Lakers,LA Clippers,3IN4-B2B,1
+21801193,Brooklyn,Milwaukee,2,1
+21801194,Philadelphia,Chicago,3IN4,2
+21801195,Miami,Toronto,1,1
+21801196,San Antonio,Cleveland,1,3IN4
+21801197,Oklahoma City,Minnesota,1,1
+21801198,Charlotte,Detroit,1,1
+21801199,Brooklyn,Indiana,B2B,1
+21801200,Phoenix,Houston,1,1
+21801201,Dallas,Memphis,1,1
+21801202,Atlanta,Milwaukee,1,3IN4-B2B
+21801203,Orlando,Boston,1,1
+21801204,Washington,New York,1,1
+21801205,LA Clippers,Golden State,1,3IN4
+21801206,Denver,Portland,1,1
+21801207,New Orleans,Sacramento,1,3IN4
+21801208,Utah,LA Lakers,1,3IN4
+21801209,Charlotte,Cleveland,1,1
+21801210,Memphis,Detroit,1,1
+21801211,Boston,Washington,1,1
+21801212,Philadelphia,Miami,2,1
+21801213,New York,Chicago,1,2
+21801214,Toronto,Minnesota,1,1
+21801215,Golden State,New Orleans,1,1
+21801216,Phoenix,Dallas,1,1
+21801217,Denver,Utah,1,1
+21801218,Houston,Oklahoma City,1,1
+21801219,Portland,LA Lakers,1,1
+21801220,Indiana,Atlanta,2,2
+21801221,Miami,Brooklyn,3IN4-B2B,2
+21801222,Orlando,Charlotte,2,3IN4-B2B
+21801223,Detroit,New York,3IN4-B2B,3IN4-B2B
+21801224,Chicago,Philadelphia,B2B,B2B
+21801225,Golden State,Memphis,3IN4-B2B,3IN4-B2B
+21801226,Oklahoma City,Milwaukee,3IN4-B2B,2
+21801227,Dallas,San Antonio,3IN4-B2B,2
+21801228,Minnesota,Denver,3IN4-B2B,3IN4-B2B
+21801229,Utah,LA Clippers,3IN4-B2B,2
+21801230,Sacramento,Portland,2,3IN4-B2B
+41800111,Orlando,Toronto,2,3+
+41800121,Brooklyn,Philadelphia,2,2
+41800141,LA Clippers,Golden State,2,2
+41800151,San Antonio,Denver,2,2
+41800101,Detroit,Milwaukee,3+,3+
+41800131,Indiana,Boston,3+,3+
+41800161,Oklahoma City,Portland,3+,3+
+41800171,Utah,Houston,3+,3+
+41800122,Brooklyn,Philadelphia,1,1
+41800142,LA Clippers,Golden State,1,1
+41800112,Orlando,Toronto,2,2
+41800152,San Antonio,Denver,2,2
+41800162,Oklahoma City,Portland,1,1
+41800102,Detroit,Milwaukee,2,2
+41800132,Indiana,Boston,2,2
+41800172,Utah,Houston,2,2
+41800123,Philadelphia,Brooklyn,2,2
+41800143,Golden State,LA Clippers,2,2
+41800153,Denver,San Antonio,1,1
+41800113,Toronto,Orlando,2,2
+41800133,Boston,Indiana,1,1
+41800163,Portland,Oklahoma City,2,2
+41800103,Milwaukee,Detroit,2,2
+41800124,Philadelphia,Brooklyn,1,1
+41800154,Denver,San Antonio,1,1
+41800173,Houston,Utah,2,2
+41800114,Toronto,Orlando,1,1
+41800134,Boston,Indiana,1,1
+41800144,Golden State,LA Clippers,2,2
+41800164,Portland,Oklahoma City,1,1
+41800104,Milwaukee,Detroit,1,1
+41800174,Houston,Utah,1,1
+41800115,Orlando,Toronto,1,1
+41800125,Brooklyn,Philadelphia,2,2
+41800155,San Antonio,Denver,2,2
+41800165,Oklahoma City,Portland,1,1
+41800145,LA Clippers,Golden State,2,2
+41800175,Utah,Houston,1,1
+41800156,Denver,San Antonio,1,1
+41800146,Golden State,LA Clippers,1,1
+41800157,San Antonio,Denver,1,1
+41800211,Philadelphia,Toronto,3+,3+
+41800201,Boston,Milwaukee,3+,3+
+41800221,Houston,Golden State,3+,1
+41800212,Philadelphia,Toronto,1,1
+41800231,Portland,Denver,3+,1
+41800202,Boston,Milwaukee,1,1
+41800222,Houston,Golden State,1,1
+41800232,Portland,Denver,1,1
+41800213,Toronto,Philadelphia,2,2
+41800203,Milwaukee,Boston,2,2
+41800233,Denver,Portland,1,1
+41800223,Golden State,Houston,3+,3+
+41800214,Toronto,Philadelphia,2,2
+41800234,Denver,Portland,1,1
+41800204,Milwaukee,Boston,2,2
+41800224,Golden State,Houston,1,1
+41800215,Philadelphia,Toronto,1,1
+41800235,Portland,Denver,1,1
+41800205,Boston,Milwaukee,1,1
+41800225,Houston,Golden State,1,1
+41800216,Toronto,Philadelphia,1,1
+41800236,Denver,Portland,1,1
+41800226,Golden State,Houston,1,1
+41800217,Philadelphia,Toronto,2,2
+41800237,Portland,Denver,2,2
+41800311,Portland,Golden State,1,3+
+41800301,Toronto,Milwaukee,2,3+
+41800312,Portland,Golden State,1,1
+41800302,Toronto,Milwaukee,1,1
+41800313,Golden State,Portland,1,1
+41800303,Milwaukee,Toronto,1,1
+41800314,Golden State,Portland,1,1
+41800304,Milwaukee,Toronto,1,1
+41800305,Toronto,Milwaukee,1,1
+41800306,Milwaukee,Toronto,1,1
+41800401,Golden State,Toronto,3+,3+
+41800402,Golden State,Toronto,2,2
+41800403,Toronto,Golden State,2,2
+41800404,Toronto,Golden State,1,1
+41800405,Golden State,Toronto,2,2
+41800406,Toronto,Golden State,2,2
