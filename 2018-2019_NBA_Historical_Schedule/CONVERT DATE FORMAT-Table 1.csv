@@ -1,0 +1,20 @@
+"BigDataball uses a double-digit, text date format (MM-DD-YYYY, ie. ""04/15/2017"") which is not recognized by Excel as a real date format.",,,,
+,,,,
+To convert BigDataBall dates to Excel dates or vice versa:,,,,
+Just apply one the the appopriate formulas below,,,,
+,,,,
+,,,,
+,"BIGDATABALL STANDARD 
+DATE FORMAT
+(MM-DD-YYYY)","CONVERT FROM  
+BIGDATABALL DATE
+to EXCEL DATE 
+(MM-DD-YYYY) to (M-D-YYYY)","CONVERT FROM  
+EXCEL DATE
+to BIGDATABALL DATE 
+(M-D-YYYY) to (MM-DD-YYYY)",
+,04/17/2018,"April 17, 2018",04/17/2018,
+,,,,
+,,,,
+,,,,
+,,,,
