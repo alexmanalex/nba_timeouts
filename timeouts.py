@@ -6,12 +6,12 @@ OUTPUT_COLS = ['game_id', 'date', 'period',
 
 
 team_lookup = pd.read_csv('2018-2019_NBA_Historical_Schedule/TEAMS-Table 1.csv')
-team_lookup['NICKNAME'] = team_lookup['NICKNAME'].str.lower().astype(str)
-team_lookup['INITIALS'] = team_lookup['INITIALS'].str.lower().astype(str)
+team_lookup['NICKNAME'] = team_lookup['NICKNAME'].str.lower()#.astype(str)
+team_lookup['INITIALS'] = team_lookup['INITIALS'].str.lower()#.astype(str)
 
 #read in data
 df = pd.read_csv('2018-2019_NBA_PBP/pbp-[10-16-2018]-[06-13-2019]-combined-stats.csv',
-                 # nrows = 10000,
+                  nrows = 10000,
                   encoding = "ISO-8859-1", low_memory=False).drop(0, axis=0)
 df['game_id'] = df.apply(lambda row: row.game_id[1:], axis=1).astype(int)
 df['INITIALS'] = df['team'].str.lower()
@@ -63,4 +63,4 @@ timeouts['time_since_last_break'] = timeouts['elapsed_seconds'] - timeouts['last
 timeouts = timeouts[OUTPUT_COLS]
 timeouts['treatment'] = 1
 
-timeouts.to_csv('output/timeouts.csv')
+timeouts.to_csv('output/timeouts_test.csv')

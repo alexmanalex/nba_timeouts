@@ -1,0 +1,81 @@
+---
+title: "Causal Analysis"
+author: "Alex Mansourati"
+date: "04/05/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(boot)
+library(tidyverse)
+```
+
+```{r}
+df = read.csv('output/nba_timeouts_analysis.csv')
+head(df)
+```
+
+```{r}
+df %>% ggplot(aes(x=outcome)) + geom_density()
+```
+
+# Balance between Treated and Controls
+
+```{r}
+a = df %>% 
+  pivot_longer(-c(treatment, outcome)) %>% 
+  group_by(treatment, name) %>% 
+  summarise(mean = mean(value), sd = sd(value)) %>% 
+  arrange(name, treatment) %>% 
+  pivot_wider(names_from='treatment', values_from=c('mean', 'sd'))
+```
+
+```{r}
+b = df %>% 
+  pivot_longer(-c(treatment, outcome)) %>% 
+  group_by(treatment, name) %>% 
+  summarise(opp_lower_quant = quantile(value, 0.025),
+            opp_upper_quant = quantile(value, 0.975)) %>% 
+  mutate(opposite_treatment = case_when(treatment==0~1, TRUE~0)) %>% 
+  inner_join(df %>% pivot_longer(-c(treatment, outcome)), by=c("opposite_treatment"="treatment", "name")) %>% 
+  group_by(treatment, name) %>% 
+  summarise(pi = ecdf(value)(first(opp_lower_quant)) + (1-ecdf(value)(first(opp_upper_quant)))) %>% 
+  pivot_wider(names_from=c('treatment'), values_from=c('pi'), names_prefix='pi_0.05_')
+```
+
+```{r}
+a %>% inner_join(b, by='name')
+```
+
+A full 36% of the control units are outside the range of the treatment units for scoring run. 
+
+
+```{r}
+df %>% 
+  mutate(treatment = as.factor(treatment)) %>% 
+  ggplot(aes(scoring_run, colour=treatment)) + geom_density()
+```
+
+
+```{r}
+df %>% 
+  mutate(treatment = as.factor(treatment)) %>% 
+  ggplot(aes(time_since_last_break, colour=treatment)) + geom_density()
+```
+
+
+```{r}
+df %>% group_by(treatment) %>% summarise(max(scoring_run), min(scoring_run), max(coach_exp), min(coach_exp))
+```
+
+
+```{r}
+df %>% 
+  mutate(treatment = as.factor(treatment)) %>% 
+  ggplot(aes(coach_exp, fill=treatment)) + geom_histogram(position='dodge')
+```
+

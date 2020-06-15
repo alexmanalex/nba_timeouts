@@ -1,3 +1,5 @@
+library(boot)
+
 #Set the working direcrtory to file location
 df = read.csv('output/nba_timeouts_analysis.csv')
 
