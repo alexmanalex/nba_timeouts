@@ -1,6 +1,6 @@
 import pandas as pd
 
-OUTPUT_COLS = ['treatment', 'outcome', 'scoring_run', 'coach_exp', 'time_since_last_break', 'point_diff']
+OUTPUT_COLS = ['treatment', 'outcome', 'scoring_run', 'coach_exp', 'time_since_last_break', 'point_diff', 'elapsed_seconds']
 
 timeouts = pd.read_csv('output/timeouts.csv')
 nontimeouts = pd.read_csv('output/nontimeouts.csv')

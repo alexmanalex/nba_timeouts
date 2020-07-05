@@ -41,7 +41,7 @@ df = pd.merge_asof(df, df_past, on='elapsed_seconds', by=['game_id', 'which_team
 df = pd.merge_asof(df, df_future, on='elapsed_seconds', by=['game_id', 'which_team'], direction='backward')
 
 nontimeouts = df[df.event_type !='timeout']
-nontimeouts = nontimeouts.sample(n=10000) #n = approximate number of timeouts in season
+nontimeouts = nontimeouts.sample(n=300000) #n = approximate number of timeouts in season
 
 
 #Prepare nontimeouts
@@ -65,4 +65,4 @@ nontimeouts['time_since_last_break'] = nontimeouts['elapsed_seconds'] - nontimeo
 
 nontimeouts = nontimeouts[OUTPUT_COLS].dropna(subset=['team_id'])
 nontimeouts['treatment'] = 0
-nontimeouts.to_csv('output/nontimeouts.csv')
+nontimeouts.to_csv('output/nontimeouts_raw.csv')
