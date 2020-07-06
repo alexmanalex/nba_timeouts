@@ -68,7 +68,7 @@ multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
 
 ```{r}
 df = read.csv('output/nba_timeouts_analysis.csv')
-df = df %>% select(-time_since_last_break)
+# df = df %>% select(-time_since_last_break)
 head(df)
 ```
 
@@ -92,10 +92,10 @@ p = df %>%
 
 p1 = p + geom_density(aes(x=scoring_run)) +theme(legend.position="none")
 p2 = p + geom_density(aes(x=point_diff)) +theme(legend.position="none")
-p3 = p + geom_density(aes(x=)) +theme(legend.position="none")
+p3 = p + geom_density(aes(x=time_since_last_break)) +theme(legend.position="none")
 p4 = p + geom_density(aes(x=coach_exp)) 
 
-multiplot(p1, p2, p3, cols=2)
+multiplot(p1, p2, p3, p4, cols=2)
 ```
 
 The distribution look mostly the same, except for `scoring_run`. The scoring run covariate as seen in Figure XYZ, is a similarly shaped normal distribution (same SD) but translated slightly. We can handle this adjustment in our model. 
@@ -140,7 +140,7 @@ df
 
 
 ```{r}
-lin_fit = glm(formula = treatment~scoring_run + coach_exp + point_diff,
+lin_fit = glm(formula = treatment~scoring_run + coach_exp + point_diff + time_since_last_break,
    data=df, 
    family=binomial())
 
@@ -168,7 +168,7 @@ prop_score_df %>%
 # GAM
 ```{r}
 library(mgcv)
-np_fit = gam(treatment~s(scoring_run) + s(coach_exp) + s(point_diff),
+np_fit = gam(treatment~s(scoring_run) + s(coach_exp) + s(point_diff) + s(time_since_last_break),
              data=df, family=binomial())
 
 summary(np_fit)
@@ -212,9 +212,10 @@ Matching via Propensity Score
 
 MatchIt matches on propensity score, not the linearized propensity score. 
 
+
 ```{r}
 library("MatchIt")
-m = matchit(treatment ~ scoring_run + coach_exp + point_diff,
+m = matchit(treatment ~ ,
                  data = df, method = "nearest")
 ```
 
@@ -337,7 +338,7 @@ We want to do outcome modelling to get an idea of variance (bootstrap for matchi
 
 
 ```{r}
-glinfit = lm(outcome ~ treatment + scoring_run + coach_exp + point_diff, data=match.data(m))
+glinfit = lm(outcome ~ treatment + scoring_run + coach_exp + point_diff + time_since_last_break, data=match.data(m))
 ```
 
 ```{r}
@@ -361,7 +362,7 @@ k %>%
 
 ```{r}
 df = match.data(m)
-outcome_model = lm(outcome~treatment+scoring_run+coach_exp+point_diff, data=df)
+outcome_model = lm(outcome~treatment+scoring_run+coach_exp+point_diff+time_since_last_break, data=df)
 df_all_treated = df
 df_all_treated$treatment = 1
 df_none_treated = df
@@ -383,7 +384,7 @@ standardization_ACE
 ```{r}
 fc <- function(df,i){
   df_boot <- df[i,]
-  outcome_model = lm(outcome~treatment+scoring_run+coach_exp+point_diff, data=df_boot)
+  outcome_model = lm(outcome~treatment+scoring_run+coach_exp+point_diff+time_since_last_break, data=df_boot)
   df_all_treated = df_boot
   df_all_treated$treatment = 1
   df_none_treated = df_boot
@@ -412,7 +413,7 @@ standardization_CI
 ```{r}
 df_positive = df[df$scoring_run > 0,]
 
-outcome_model = lm(outcome~treatment+scoring_run+coach_exp+point_diff, data=df_positive)
+outcome_model = lm(outcome~treatment+scoring_run+coach_exp+point_diff+time_since_last_break, data=df_positive)
 df_positive_all_treated = df_positive
 df_positive_all_treated$treatment = 1
 df_positive_none_treated = df_positive
@@ -431,7 +432,7 @@ standardization_ACE = (sum(outcomes[treated_index_start:treated_index_end]) / nr
 ```{r}
 fc <- function(df_positive,i){
   df_positive_boot <- df_positive[i,]
-  outcome_model = lm(outcome~treatment+scoring_run+coach_exp+point_diff, data=df_positive_boot)
+  outcome_model = lm(outcome~treatment+scoring_run+coach_exp+point_diff+time_since_last_break, data=df_positive_boot)
   df_positive_all_treated = df_positive_boot
   df_positive_all_treated$treatment = 1
   df_positive_none_treated = df_positive_boot
@@ -464,7 +465,7 @@ standardization_CI
 ```{r}
 df_negative = df[df$scoring_run < 0,]
 
-outcome_model = lm(outcome~treatment+scoring_run+coach_exp+point_diff, data=df_negative)
+outcome_model = lm(outcome~treatment+scoring_run+coach_exp+point_diff+time_since_last_break, data=df_negative)
 df_negative_all_treated = df_negative
 df_negative_all_treated$treatment = 1
 df_negative_none_treated = df_negative
@@ -483,7 +484,7 @@ standardization_ACE = (sum(outcomes[treated_index_start:treated_index_end]) / nr
 ```{r}
 fc <- function(df_negative,i){
   df_negative_boot <- df_negative[i,]
-  outcome_model = lm(outcome~treatment+scoring_run+coach_exp+point_diff, data=df_negative_boot)
+  outcome_model = lm(outcome~treatment+scoring_run+coach_exp+point_diff+time_since_last_break, data=df_negative_boot)
   df_negative_all_treated = df_negative_boot
   df_negative_all_treated$treatment = 1
   df_negative_none_treated = df_negative_boot

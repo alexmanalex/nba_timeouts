@@ -65,6 +65,7 @@ multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
 library(boot)
 library(tidyverse)
 library(mgcv)
+library(kableExtra)
 ```
 
 # Introduction
@@ -374,8 +375,6 @@ negative_att = paste0(standardization_ACE, ' (', standardization_CI[1], ')')
 
 
 ```{r}
-#  fig.cap="Estimates for the average causal effect of timeouts on the scoring run in three minutes post-timeout"
-
 method = c('Naive', 'Matching + Standardization')
 att = c(naive_att, att)
 catt_pos = c(naive_att_positive, positive_att)
@@ -385,7 +384,7 @@ kable(tibble('Method' = method,
                     'ATT' = att, 
                     'CATT (+ve Scoring Run)' = catt_pos, 
                     'CATT (-ve Scoring Run)' = catt_neg),
-             caption="Estimates for the average causal effect of timeouts on the scoring run in three minutes post-timeout") %>% kable_styling(position = "center")
+             caption="Estimates for the average causal effect of timeouts on the scoring run in three minutes post-timeout.") %>% kable_styling(latex_options = "hold_position")
 ```
 
 We find evidence that, on average, timeouts are effective at improving a team's performance relative to their opponent, regardless of the scoring run they are on leading up to the timeout. See Table 1. A naive method of evaluating ATT, taking the difference between means conditional on treatment, on the unmatched dataset is included for reference. 
@@ -403,7 +402,7 @@ Future work might look specifically at timeouts near end of game, leading up to 
 
 \pagebreak
 
-#References
+# References
 
 [1] Hernan MA, Robins JM. Causal Inference: What If. Boca Raton: Chapman and Hall/CRC, 2019.
 

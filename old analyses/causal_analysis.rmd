@@ -92,8 +92,7 @@ p = df %>%
 
 p1 = p + geom_density(aes(x=scoring_run)) +theme(legend.position="none")
 p2 = p + geom_density(aes(x=point_diff)) +theme(legend.position="none")
-p3 = p + geom_density(aes(x=)) +theme(legend.position="none")
-p4 = p + geom_density(aes(x=coach_exp)) 
+p3 = p + geom_density(aes(x=coach_exp)) 
 
 multiplot(p1, p2, p3, cols=2)
 ```

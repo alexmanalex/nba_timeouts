@@ -1,0 +1,33 @@
+---
+title: "debugging"
+author: "Alex Mansourati"
+date: "15/06/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(boot)
+library(tidyverse)
+```
+
+```{r}
+df = read.csv('output/timeouts_test.csv')
+```
+
+```{r}
+df$scoring_run = df$point_diff - df$past_point_diff
+```
+
+```{r}
+df %>% ggplot(aes(x=scoring_run)) + geom_density()
+```
+
+```{r}
+df %>% arrange(-scoring_run)
+```
+
+
